@@ -68,7 +68,8 @@ https://discord.gg/26Mu5WScus
 ## Levels
 
 - Spiral Mountain - [Working HD]
-- Gruntilda's Lair - [Working SD]
+- Gruntilda's Lair (Part1) - [Working SD]
+- Gruntilda's Lair (Part2) - [In Progress]
 - Mumbo's Mountain - [In Progress]
 - Treasure Trove Cove - [In Progress]
 - Clanker's Cavern - [In Progress]
@@ -78,19 +79,37 @@ https://discord.gg/26Mu5WScus
 - Mad Monster Mansion - [In Progress]
 - Rusty Bucket Bay - [In Progress]
 - Click Clock Wood - [In Progress]
-- Grunty's Furnace Fun - [In Progress]
+- Grunty's Furnace Fun (Part3) - [In Progress]
 - Final Battle - [In Progress]
 
 ------------------------------------------------------------------------------------
 
+## Keybinds PC
+
+*[W,A,S,D]
+- Move
+- Swim above water
+- Climb trees or poles
+
+*[Mouse Look]
+- Move camera left
+- Move camera right
+- Move camera up
+- Move camera down
+  
+------------------------------------------------------------------------------------
+
 ## Move List
 
+*Banjo
 - Jump - [Working]
 - Walk - [Working]
-- Swipe - [Working]
+- Run - [Working]
 - Crouch - [Working]
 - Backflip - [Working]
-
+- Swipe - [Working]
+- Roll - [Working]
+  
 ------------------------------------------------------------------------------------
 
 ## Core Mechanics
