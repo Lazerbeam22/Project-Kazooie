@@ -56,12 +56,13 @@ https://discord.gg/26Mu5WScus
 
 ------------------------------------------------------------------------------------
 
-## Required PC Specs
+## Min PC Specs
 
-- CPU: x
-- GPU: x
-- Storage Device: x
-- Memory/Ram: x
+- CPU: i3-i5 3.50 GHz
+- GPU: Nvidia Geforce GTX 750
+- Storage Device: SSD 
+- Memory/Ram: 8GB DDR3
+- Storage Space: 10GB
 
 ------------------------------------------------------------------------------------
 
@@ -86,6 +87,10 @@ https://discord.gg/26Mu5WScus
 
 ## Keybinds PC
 
+*[Escape]
+- Open pause menu
+- Close pause menu
+
 *[W,A,S,D]
 - Move
 - Swim above water
@@ -96,24 +101,79 @@ https://discord.gg/26Mu5WScus
 - Move camera right
 - Move camera up
 - Move camera down
+
+*[Spacebar]
+- Jump
+- Hold to jump higher
+- Hold to swim slowly (while underwater)
+- Fly (on Flight Pad)
+- Shock Jump (on Shock Jump Pad)
+
+*[Left Shift]
+- Talon Trot (keep shift button held)
+
+*[Left Mouse Click]
+- Claw Swipe
+- Dive underwater
+- Hold to swim quickly (while underwater)
+- Beak Bomb (while flying)
+- Cancel out Wading Boots
+- Cancel out Turbo Trainers
+
+*[C]
+- Hold to crouch, change direction with W,A,S,D/Mouse Look
+
+*[W,A,S,D + Left Mouse Click]
+- Forward Roll
+
+*[Air(Falling) + Spacebar]
+- Feathery Flap (hold to float longer)
+
+*[Air(Falling) + Left Mouse Click]
+- Rat-a-tat Rap
+
+*[Air(Falling) + C(Crouch)]
+- Beak Buster
+
+*[C(Crouch) + Spacebar]
+- Flap Flip (hold A to float longer)
+
+*[C(Crouch) + Left Mouse Click]
+- Beak Barge (hold attack button to barge further)
+
+*[C(Crouch) + Mouse Scroll Wheel Up]
+- Fire egg ahead
+
+*[C(Crouch) + Mouse Scroll Wheel Down]
+- Fire egg backwards
   
 ------------------------------------------------------------------------------------
 
 ## Move List
 
-*Banjo
 - Jump - [Working]
 - Walk - [Working]
 - Run - [Working]
 - Crouch - [Working]
-- Backflip - [Working]
-- Swipe - [Working]
-- Roll - [Working]
+- Flap Flip - [Working]
+- Claw Swipe - [Working]
+- Forward Roll - [Working]
+- Feathery Flap - [Working]
+- Rat-a-tat Rap - [Working]
+- Beak Barge - [Working]
+- Talon Trot - [Working]
+- Fire egg ahead - [In Profress]
+- Fire egg backwards - [In Profress]
+- Wonderwing - [In Profress]
+- First-person view - [In Profress]
+- Zoom camera in/out - [In Profress]
   
 ------------------------------------------------------------------------------------
 
 ## Core Mechanics
 
+- Day/Night Cycle - [Working]
+- Seasonal Weather System - [Working]
 - Save/Load Game - [Working]
 - Main Menu/Title Screen - [Working]
 - Settings Audio/Video - [Working]
@@ -139,9 +199,7 @@ https://discord.gg/26Mu5WScus
 
 - Learning Moves - [In Progress]
 - Item Spawns - [In Progress]
-- Day/Night Cycle - [Working]
-- Seasonal Weather System - [Working]
-
+- 
 ------------------------------------------------------------------------------------
 
 ## Items
@@ -155,5 +213,15 @@ https://discord.gg/26Mu5WScus
 - Blue Eggs - [In Progress]
 - Red Feathers - [In Progress]
 - Golden Feathers - [In Progress]
+  
+------------------------------------------------------------------------------------
+
+## UI
+
+- Mainmenu - [Working]
+- Settings Audio/Visual - [Working]
+- Pause Menu - [Working]
+- Item Collection - [In Progress]
+- Cutscenes - [In Progress]
   
 ------------------------------------------------------------------------------------
