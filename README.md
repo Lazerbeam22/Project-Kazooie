@@ -1,4 +1,4 @@
-# Project-Kazooie - Information [0.0.2a]
+# Project-Kazooie - Information [0.0.3a]
 
 ![alt text](https://cdn.discordapp.com/attachments/1137857953806942320/1138594641931939860/image.png)
 
@@ -70,17 +70,17 @@ https://discord.gg/26Mu5WScus
 
 - Spiral Mountain - [Working HD]
 - Gruntilda's Lair (Part1) - [Working SD]
-- Gruntilda's Lair (Part2) - [In Progress]
-- Mumbo's Mountain - [In Progress]
-- Treasure Trove Cove - [In Progress]
-- Clanker's Cavern - [In Progress]
-- Bubblegloop Swamp - [In Progress]
-- Freezeezy Peak - [In Progress]
-- Gobi's Valley - [In Progress]
-- Mad Monster Mansion - [In Progress]
-- Rusty Bucket Bay - [In Progress]
-- Click Clock Wood - [In Progress]
-- Grunty's Furnace Fun (Part3) - [In Progress]
+- Gruntilda's Lair (Part2) - [Working SD]
+- Mumbo's Mountain - [Working SD]
+- Treasure Trove Cove - [Working SD]
+- Clanker's Cavern - [Working SD]
+- Bubblegloop Swamp - [Working SD]
+- Freezeezy Peak - [Working SD]
+- Gobi's Valley - [Working SD]
+- Mad Monster Mansion - [Working SD]
+- Rusty Bucket Bay - [Working SD]
+- Click Clock Wood - [Working SD]
+- Grunty's Furnace Fun (Part3) - [Working SD]
 - Final Battle - [In Progress]
 
 ------------------------------------------------------------------------------------
@@ -162,11 +162,11 @@ https://discord.gg/26Mu5WScus
 - Rat-a-tat Rap - [Working]
 - Beak Barge - [Working]
 - Talon Trot - [Working]
-- Fire egg ahead - [In Profress]
-- Fire egg backwards - [In Profress]
-- Wonderwing - [In Profress]
-- First-person view - [In Profress]
-- Zoom camera in/out - [In Profress]
+- Fire egg ahead - [In Progress]
+- Fire egg backwards - [In Progress]
+- Wonderwing - [In Progress]
+- First-person view - [In Progress]
+- Zoom camera in/out - [In Progress]
   
 ------------------------------------------------------------------------------------
 
@@ -197,9 +197,11 @@ https://discord.gg/26Mu5WScus
 
 ## Events
 
-- Learning Moves - [In Progress]
-- Item Spawns - [In Progress]
-- 
+- Learning Moves - [Working]
+- Item Spawns - [Working]
+- Object Spawns - [In Progress]
+- Trigger Spawns - [In Progress]
+  
 ------------------------------------------------------------------------------------
 
 ## Items
@@ -210,9 +212,13 @@ https://discord.gg/26Mu5WScus
 - Mumbo Tokens - [Working]
 - Musical Notes - [Working]
 - Jiggies - [Working]
-- Blue Eggs - [In Progress]
-- Red Feathers - [In Progress]
-- Golden Feathers - [In Progress]
+- Blue Eggs - [Working]
+- Red Feathers - [Working]
+- Golden Feathers - [Working]
+  
+------------------------------------------------------------------------------------
+
+## Objects
   
 ------------------------------------------------------------------------------------
 
@@ -221,7 +227,8 @@ https://discord.gg/26Mu5WScus
 - Mainmenu - [Working]
 - Settings Audio/Visual - [Working]
 - Pause Menu - [Working]
-- Item Collection - [In Progress]
-- Cutscenes - [In Progress]
+- Item Collection - [Working]
+- Cutscenes - [Working]
+- Dialogue System - [Working]
   
 ------------------------------------------------------------------------------------
